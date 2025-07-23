@@ -29,7 +29,8 @@ public class pr1
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
-        int n = 1; // Number of employees
+
+        int n = 2; // You can change this value or take from user if needed
 
         Employee[] emp = new Employee[n];
 
